@@ -39,6 +39,10 @@
         }
       ]
     },
+    "methods": {
+      "description": "HTTP request methods accepted by the server."
+      "type": "array"
+    },
     "publicPath": {
       "description": "URL path where the webpack files are served from.",
       "type": "string"
