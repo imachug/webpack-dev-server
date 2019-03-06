@@ -67,7 +67,7 @@
     "spdy": "^3.4.1",
     "strip-ansi": "^3.0.0",
     "supports-color": "^5.1.0",
-    "webpack-dev-middleware": "1.12.2",
+    "webpack-dev-middleware": "https://github.com/imachug/webpack-dev-middleware#v2",
     "yargs": "6.6.0"
   },
   "devDependencies": {
