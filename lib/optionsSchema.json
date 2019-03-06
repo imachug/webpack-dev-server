@@ -40,7 +40,7 @@
       ]
     },
     "methods": {
-      "description": "HTTP request methods accepted by the server."
+      "description": "HTTP request methods accepted by the server.",
       "type": "array"
     },
     "publicPath": {
